@@ -1,0 +1,104 @@
+.knowledge--container {
+  /* background-color: green; */
+  padding-top: 4rem;
+}
+
+.knowledge--container .knowledge--heading--section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 14rem;
+}
+
+.knowledge--heading--section .heading--1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #212121;
+  text-transform: uppercase;
+}
+
+.knowledge--heading--section .heading--2 {
+  font-size: 52px;
+  font-family: "Heebo", sans-serif;
+  color: #0005B8;
+  font-weight: bold;
+}
+
+.knowledge--container .knowledge--description--details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.knowledge--description--details .knowledge--details {
+  background-color: #FFFFFF;
+  padding: 1rem;
+  width: 55vh;
+  position: absolute;
+  margin: -8rem 0rem 0rem 10rem;
+}
+
+.knowledge--description--details .knowledge--description--1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem;
+}
+
+.knowledge--description--details .knowledge--details--2 {
+  background-color: #FFFFFF;
+  padding: 1rem;
+  width: 55vh;
+  position: absolute;
+  margin: -8rem 6rem 0rem 8rem;
+}
+
+.knowledge--details--2 .knowledge--heading,
+.knowledge--details .knowledge--heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #0005B8;
+  margin-bottom: 1rem;
+}
+
+.knowledge--details--2 .knowledge--paragraph,
+.knowledge--details .knowledge--paragraph {
+  font-size: 15px;
+  font-family: "Heebo", sans-serif;
+  color: #212121;
+}
+
+.decription--image .wissen {
+  width: 85vh;
+}
+
+@media screen and (max-width: 960px) {
+  .decription--image .wissen {
+    width: 110vh;
+  }
+  .knowledge--container .knowledge--description--details {
+    flex-wrap: wrap;
+  }
+  .knowledge--description--details .knowledge--description--1 {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2rem;
+  }
+  .knowledge--description--details .knowledge--details {
+    background-color: #FFFFFF;
+    padding: 1rem;
+    width: 60vh;
+    position: relative;
+    margin: -4rem 0rem 2rem 0rem;
+  }
+  .knowledge--description--details .knowledge--details--2 {
+    background-color: #FFFFFF;
+    padding: 1rem;
+    width: 60vh;
+    position: absolute;
+    margin: -4rem 0rem 0rem 0rem;
+  }
+  .knowledge--container .knowledge--heading--section {
+    display: flex;
+    flex-direction: column;
+    margin: 14rem 2rem 0rem 2rem;
+  }
+}/*# sourceMappingURL=KnowledgeSection.css.map */

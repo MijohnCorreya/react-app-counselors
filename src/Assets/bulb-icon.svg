@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A5C25E89-FF50-4955-82BB-743CC64D06C8</title>
+    <g id="Counselors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Leistungen---Desktop" transform="translate(-978.000000, -2711.000000)">
+            <g id="bulb-icon" transform="translate(978.000000, 2711.000000)">
+                <polygon id="Path" points="0 0 70 0 70 70 0 70"></polygon>
+                <path d="M8.75,35 L11.6666667,35 M35,8.75 L35,11.6666667 M58.3333333,35 L61.25,35 M16.3333333,16.3333333 L18.375,18.375 M53.6666667,16.3333333 L51.625,18.375" id="Shape" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M26.25,46.6666667 C21.2283119,42.9004006 19.1800387,36.3433346 21.1650352,30.3883451 C23.1500317,24.4333556 28.7228899,20.4166667 35,20.4166667 C41.2771101,20.4166667 46.8499683,24.4333556 48.8349648,30.3883451 C50.8199613,36.3433346 48.7716881,42.9004006 43.75,46.6666667 C41.4404737,48.952834 40.3574127,52.202017 40.8333333,55.4166667 C40.8333333,58.6383277 38.221661,61.25 35,61.25 C31.778339,61.25 29.1666667,58.6383277 29.1666667,55.4166667 C29.6425873,52.202017 28.5595263,48.952834 26.25,46.6666667" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="28.2916667" y1="49.5833333" x2="41.7083333" y2="49.5833333" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

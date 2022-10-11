@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>307070FA-7985-48A7-9762-703A9CE55C69</title>
+    <g id="Counselors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Leistungen---Desktop" transform="translate(-979.000000, -3316.000000)">
+            <g id="message-icon" transform="translate(979.000000, 3316.000000)">
+                <polygon id="Path" points="0 0 70 0 70 70 0 70"></polygon>
+                <path d="M11.6666667,61.25 L11.6666667,23.3333333 C11.6666667,18.5008418 15.5841751,14.5833333 20.4166667,14.5833333 L49.5833333,14.5833333 C54.4158249,14.5833333 58.3333333,18.5008418 58.3333333,23.3333333 L58.3333333,40.8333333 C58.3333333,45.6658249 54.4158249,49.5833333 49.5833333,49.5833333 L23.3333333,49.5833333 L11.6666667,61.25" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="23.3333333" y1="26.25" x2="46.6666667" y2="26.25" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="23.3333333" y1="37.9166667" x2="40.8333333" y2="37.9166667" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

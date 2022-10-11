@@ -1,0 +1,74 @@
+//Colors
+$primaryColor: #0005B8;
+$whiteColor : #FFFFFF;
+$textColor : #212121;
+
+//Fonts
+$defaultFont: 'Heebo',
+sans-serif;
+
+//Font sizes
+$headingSize : 52px;
+$subheadSize : 28px;
+$textSize : 15px;
+
+//PRIMARY HEADING STYLE
+@mixin primaryHeading {
+    font-size: $headingSize;
+    font-family: $defaultFont;
+    color: $primaryColor;
+    font-weight: bold;
+}
+
+//PRIMARY HEADING STYLE WHITE 
+@mixin primaryHeadingWhite {
+    font-size: $headingSize;
+    font-family: $defaultFont;
+    color: $whiteColor;
+    font-weight: bolder;
+}
+
+//PARAGRAPH WHITE
+@mixin paragraphWhite {
+    font-size: $textSize;
+    font-family: $defaultFont;
+    color: $whiteColor;
+}
+
+//PARAGRAPH NORMAL
+@mixin paragraphNormal {
+    font-size: $textSize;
+    font-family: $defaultFont;
+    color: $textColor;
+}
+
+
+//PARAGRAPH NORMAL
+@mixin subHeading {
+    font-size: $subheadSize;
+    font-weight: bold;
+    color: $primaryColor;
+}
+
+//subheading with white text
+@mixin subHeadingWhite {
+    font-size: $textSize;
+    font-weight: bold;
+    color: $whiteColor;
+}
+
+//subheading with white text
+@mixin subHeadingPrimary {
+    font-size: $textSize;
+    font-weight: bold;
+    color: $primaryColor;
+    text-transform: uppercase;
+}
+
+//subheading style with default text color
+@mixin subHeadingText {
+    font-size: $textSize;
+    font-weight: bold;
+    color: $textColor;
+    text-transform: uppercase;
+}

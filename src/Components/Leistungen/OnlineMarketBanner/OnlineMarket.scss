@@ -1,0 +1,53 @@
+@import "../../../Variables/variables.scss";
+
+.market--section {
+    display: flex;
+    flex-direction: row;
+    /* background-color: green; */
+    margin-top: -6rem;
+}
+
+.market--section .market--section--1 {
+    flex-grow: 1;
+    background-image: url('../../../Assets/ueber-uns-bg.jpg');
+    /* color: $whiteColor ; */
+    align-items: center;
+    padding: 4rem 4rem 4rem 16rem;
+}
+
+.market--section .market--section--2 {
+    width: 8rem;
+}
+
+.market--section--1 .market--heading--1{
+    @include subHeadingWhite();
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+}
+
+.market--section--1 .market--heading--2{
+    @include primaryHeadingWhite();
+    padding-bottom: 1rem;
+}
+
+.market--section--1 .market--heading--3{
+    @include paragraphWhite();
+    padding-bottom: 1rem;
+}
+
+.market--section--1 .market--heading--4{
+    @include paragraphWhite();
+    font-weight: bold;
+}
+
+@media screen and (max-width:960px) {
+    .market--section .market--section--1 {
+        padding: 1rem 2rem 1rem 2rem;
+    }
+    .market--section .market--section--2 {
+        width: 0rem;
+    }
+    br {
+        display: none;
+    }
+}

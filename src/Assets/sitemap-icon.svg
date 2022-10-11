@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A8EE7EB2-3E5E-4803-9A0D-0F1B5228E223</title>
+    <g id="Counselors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Leistungen---Desktop" transform="translate(-978.000000, -4149.000000)">
+            <g id="sitemap-icon" transform="translate(978.000000, 4149.000000)">
+                <polygon id="Path" points="0 0 70 0 70 70 0 70"></polygon>
+                <rect id="Rectangle" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="8.75" y="43.75" width="17.5" height="17.5" rx="8.75"></rect>
+                <rect id="Rectangle" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="43.75" y="43.75" width="17.5" height="17.5" rx="8.75"></rect>
+                <rect id="Rectangle" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="26.25" y="8.75" width="17.5" height="17.5" rx="8.75"></rect>
+                <path d="M17.5,43.75 L17.5,40.8333333 C17.5,37.6116723 20.1116723,35 23.3333333,35 L46.6666667,35 C49.8883277,35 52.5,37.6116723 52.5,40.8333333 L52.5,43.75" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="35" y1="26.25" x2="35" y2="35" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

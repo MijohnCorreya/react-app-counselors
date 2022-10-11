@@ -1,0 +1,142 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0rem 10rem 0rem 10rem;
+}
+
+.footer--contact--details .footer--address--wrap {
+  display: flex;
+  flex-direction: row;
+  padding-right: 2rem;
+}
+
+.footer--contact--details {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3rem;
+}
+
+.footer--contact--info .phone--details {
+  display: flex;
+}
+
+.footer--contact--info .email--details {
+  display: flex;
+}
+
+.contacts--wrap .copy--rights {
+  padding: 2rem 0rem 4rem 0rem;
+}
+
+.phone--details .phone--icon,
+.email--details .email--icon,
+.footer--address--wrap .map-pin--icon {
+  margin-right: 0.5rem;
+}
+
+.footer .leads--wrap {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.leads--wrap .leads--description {
+  text-align: right;
+}
+
+.leads--wrap .input-areas {
+  text-align: right;
+  margin-top: 3rem;
+}
+
+.input-areas .footer-input {
+  padding: 12px 22px;
+  width: 18rem;
+  border-radius: 2px;
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  font-size: 14px;
+  margin-bottom: 16px;
+  border: 1px solid #D6DEEE;
+  border-radius: 1.5rem;
+}
+
+.footer-input {
+  font-size: 14rem;
+  color: #D6DEEE;
+}
+
+.footer--links {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+  font-weight: bold;
+  color: #212121;
+}
+
+.footer--links .link--item {
+  margin-right: 1rem;
+}
+
+.leads--wrap {
+  padding-bottom: 4rem;
+}
+
+@media screen and (max-width: 960px) {
+  .footer {
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0rem 10rem 0rem 2rem;
+  }
+  .footer--links {
+    justify-content: flex-start;
+  }
+  .leads--wrap .input-areas {
+    text-align: left;
+  }
+  .leads--wrap .leads--description {
+    text-align: left;
+  }
+}
+@media screen and (max-width: 600px) {
+  .footer {
+    margin-left: 4rem;
+  }
+  .contacts--wrap .footer--logo {
+    margin-left: 2rem;
+  }
+  .footer--address--wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .footer--contact--details {
+    flex-wrap: wrap;
+  }
+  .input-areas .footer-input {
+    width: 14rem;
+  }
+  .footer--contact--info .email--details {
+    flex-wrap: wrap;
+  }
+  .footer--contact--details .footer--address--wrap {
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 3rem;
+  }
+  .phone--details {
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 5rem;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  .email--details {
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 4rem;
+    align-items: center;
+    margin-top: 2rem;
+  }
+}/*# sourceMappingURL=Footer.css.map */

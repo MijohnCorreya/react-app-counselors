@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A2AC28FF-1D3B-4C49-A232-31FE748686D3</title>
+    <g id="Counselors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Home---Desktop" transform="translate(-552.000000, -4864.000000)">
+            <g id="mail-icon" transform="translate(552.000000, 4864.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <rect id="Rectangle" stroke="#0005B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="3" y="5" width="18" height="14" rx="2"></rect>
+                <polyline id="Path" stroke="#0005B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="3 7 12 13 21 7"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

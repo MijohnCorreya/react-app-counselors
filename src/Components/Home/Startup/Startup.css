@@ -1,0 +1,106 @@
+.startup--container {
+  /* background-color: blue; */
+  display: flex;
+  padding-bottom: 5rem;
+}
+
+.startup--container .startup--wrap--1 {
+  background-image: url("../../../Assets/start-up-sessions-bg.jpg");
+  background-color: green;
+  display: flex;
+  flex-grow: 1;
+  width: 4rem;
+  height: 28rem;
+}
+
+.startup--container .startup--wrap--2 {
+  /* background-color: rgb(27, 248, 27); */
+  margin-left: 5rem;
+}
+
+.startup--wrap--1 .description--container-1 {
+  /* background-color: rgb(27, 248, 27); */
+  width: 10rem;
+}
+
+.description--container-2 .startup--title-1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+
+.description--container-2 .startup--title-2 {
+  font-size: 52px;
+  font-family: "Heebo", sans-serif;
+  color: #FFFFFF;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+}
+
+.description--container-2 .startup--description {
+  font-size: 15px;
+  font-family: "Heebo", sans-serif;
+  color: #FFFFFF;
+}
+
+.description--container-2 .startup--buttons {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.termin--wrap {
+  display: flex;
+  flex-direction: column;
+  justify-items: right;
+}
+
+.termin--wrap .termin--heading {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.termin--wrap .termin--description {
+  font-size: 52px;
+  font-family: "Heebo", sans-serif;
+  color: #FFFFFF;
+  font-weight: bolder;
+  font-size: 42px;
+  text-transform: uppercase;
+}
+
+.description--container-3 {
+  text-align: right;
+}
+
+.startup--description {
+  display: flex;
+  justify-content: space-between;
+}
+
+.startup--paragraph--wrap {
+  display: flex;
+  flex-direction: row;
+}
+
+.startup--paragraph--wrap {
+  flex-grow: 1;
+}
+
+.startup--paragraph--wrap .termin--section {
+  margin: 1rem 1rem 0rem 4rem;
+}
+
+@media screen and (max-width: 940px) {
+  .startup--container .startup--wrap--1 {
+    display: none;
+  }
+  .startup--container {
+    padding-bottom: 0rem;
+  }
+}/*# sourceMappingURL=Startup.css.map */

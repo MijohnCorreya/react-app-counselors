@@ -1,0 +1,109 @@
+@import "../../../Variables/variables.scss";
+
+.acquisition--container {
+    /* background-color: green; */
+    display: flex;
+    margin-top: 2rem;
+}
+
+.acquisition--container .section--1 {
+    /*  background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+}
+
+.acquisition--container .section--2 {
+    height: 24vh;
+    width: 64vh;
+    position: absolute;
+    margin: 6rem 0rem 0rem 60rem;
+}
+
+.quotes--wrap .quote {
+    font-size: 24px;
+    color: #9298A4;
+    margin-bottom: 1rem;
+}
+
+.section--1 .acquisition--heading {
+    @include primaryHeading();
+    margin-left: 14rem;
+}
+
+.section--1 .acquisition--image {
+    position: absolute;
+    z-index: -1;
+    margin-top: 6rem;
+}
+
+.section--1 .acquisition--description {
+    display: flex;
+    flex-direction: column;
+    background-color: $whiteColor;
+    padding: 2rem;
+    margin: 10rem 0rem 0rem 32rem;
+}
+
+.acquisition--description .description--item--1 {
+    @include subHeading();
+    margin-bottom: 1rem;
+}
+
+.acquisition--description .description--item--2 {
+    @include paragraphNormal();
+    margin-bottom: 1rem;
+}
+
+.section--2 .quotes--wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.quotes--wrap .profile {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile .profile--details {
+    display: flex;
+    flex-direction: column;
+    margin-left : 1rem;
+}
+
+.profile--details .name{
+    color: $textColor;
+    font-size: $textSize;
+    font-weight: bold;
+}
+
+@media screen and (max-width:960px) {
+
+    .acquisition--container {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .section--1 .acquisition--heading {
+        margin-left: 2rem;
+    }
+
+    .section--1 .acquisition--description {
+        margin: 16rem 6rem 0rem 0rem;
+    }
+
+    .acquisition--container .section--2 {
+        margin: 45rem 0rem 0rem 2rem;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .acquisition--container .section--2 {
+        margin: 50rem 0rem 0rem 2rem;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .acquisition--container .section--2 {
+        margin: 70rem 0rem 0rem 2rem;
+    }
+}

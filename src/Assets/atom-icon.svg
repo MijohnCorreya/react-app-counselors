@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EC32054F-9514-4605-9E60-3138D8C77E6B</title>
+    <g id="Counselors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Leistungen---Desktop" transform="translate(-978.000000, -4336.000000)">
+            <g id="atom-icon" transform="translate(978.000000, 4336.000000)">
+                <polygon id="Path" points="0 0 70 0 70 70 0 70"></polygon>
+                <line x1="35" y1="35" x2="35" y2="35.0291667" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M35,5.83333333 C28.5566779,5.83333333 23.3333333,18.8916948 23.3333333,35 C23.3333333,51.1083052 28.5566779,64.1666667 35,64.1666667 C41.4433221,64.1666667 46.6666667,51.1083052 46.6666667,35 C46.6666667,18.8916948 41.4433221,5.83333333 35,5.83333333" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(35.000000, 35.000000) rotate(45.000000) translate(-35.000000, -35.000000) "></path>
+                <path d="M35,5.83333333 C28.5566779,5.83333333 23.3333333,18.8916948 23.3333333,35 C23.3333333,51.1083052 28.5566779,64.1666667 35,64.1666667 C41.4433221,64.1666667 46.6666667,51.1083052 46.6666667,35 C46.6666667,18.8916948 41.4433221,5.83333333 35,5.83333333" id="Path" stroke="#D6DEEE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(35.000000, 35.000000) rotate(-45.000000) translate(-35.000000, -35.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
